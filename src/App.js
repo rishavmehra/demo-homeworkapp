@@ -20,7 +20,7 @@ function Users() {
 }
 
 function Dashboard() {
-  return <h2>This is the Dashboard</h2>;
+  return <h2>This Rishav is the Dashboard</h2>;
 }
 
 
